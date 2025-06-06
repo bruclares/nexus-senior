@@ -44,7 +44,7 @@ No entanto, a maioria das interfaces digitais ainda é projetada para jovens fam
 
 * Criar uma interface que **se adapta dinamicamente** ao comportamento do usuário idoso.
 * Utilizar **semótica pragmática** para garantir compreensão dos ícones e comandos.
-* Integrar **IA simbótica** que aprende com erros e sugere caminhos simplificados.
+* Integrar **IA Simbólica** que aprende com erros e sugere caminhos simplificados.
 * Promover acessibilidade real com padrões **WCAG** e voz ativa.
 * Testar um modelo de interface com diferentes **níveis de complexidade**, conforme perfil.
 
@@ -55,7 +55,7 @@ No entanto, a maioria das interfaces digitais ainda é projetada para jovens fam
 * *Androids sonham com ovelhas elétricas?* — Philip K. Dick
 * WCAG 2.1
 * Observação da **interação homem-máquina com idosos** (minha mãe e sua dificuldade em resolver seus problemas essenciais sem ter ajuda)
-* Semótica de ícones digitais
+* Semiótica de ícones digitais
 * Psicologia do envelhecimento cognitivo
 
 ---
